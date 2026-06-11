@@ -37,7 +37,6 @@ reports/
 .ipynb_checkpoints/
 
 # Large files (keep model.keras tracked if small enough)
-model.keras
 dataset/
 prediction_history.csv
 
