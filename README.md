@@ -283,6 +283,14 @@ Dense(4, Softmax)
 
 ---
 
+## Contributors
+
+- **Pranjali Deshmukh**
+- **Tina Agrawal**
+- **Mrunal Mungelwar**
+
+---
+
 ## License
 
 This project is licensed under the MIT License. Free for educational and research purposes.
