@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+.env.local
+
+# Training outputs
+training_plots/
+reports/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large files (keep model.keras tracked if small enough)
+model.keras
+dataset/
+prediction_history.csv
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Streamlit secrets
+.streamlit/secrets.toml
