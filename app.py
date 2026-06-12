@@ -637,6 +637,14 @@ def page_about(lang: str):
         about AI applications in agriculture.
 
         **License:** MIT License - Free for educational and research purposes.
+
+        ---
+
+        ### 👥 Contributors
+
+        - **Mrunal Mungelwar**
+        - **Pranjali Deshmukh**
+        - **Tina Agrawal**
         """
     )
 

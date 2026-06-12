@@ -49,7 +49,7 @@ Cotton is one of the most important cash crops globally, and disease outbreaks c
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CottonDiseaseDetection.git
+git clone https://github.com/MrunalMungelwar/CottonDiseaseDetection.git
 cd CottonDiseaseDetection
 
 # Create virtual environment (recommended)
@@ -195,7 +195,7 @@ The application opens at `http://localhost:8501` with five pages:
 git init
 git add .
 git commit -m "Initial commit: Cotton Disease Detection System"
-git remote add origin https://github.com/yourusername/CottonDiseaseDetection.git
+git remote add origin https://github.com/MrunalMungelwar/CottonDiseaseDetection.git
 git push -u origin main
 ```
 
@@ -285,9 +285,9 @@ Dense(4, Softmax)
 
 ## Contributors
 
+- **Mrunal Mungelwar**
 - **Pranjali Deshmukh**
 - **Tina Agrawal**
-- **Mrunal Mungelwar**
 
 ---
 
